@@ -3,14 +3,13 @@ import { Container, Col, Row } from "react-bootstrap";
  
 import Particle from "../Particle";
  
-import {  pdfjs } from "react-pdf";
-import "react-pdf/dist/esm/Page/AnnotationLayer.css";
+ 
 
 import chatify from "../../Assets/art1-removebg-preview.png";
 import bitsOfCode from "../../Assets/art120-removebg-preview.png";
 import editor from "../../Assets/art15-removebg-preview.png";
 import Tilt from "react-parallax-tilt";
-pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
+ 
 const styles = {
   button: {
     padding: '15px 30px',
