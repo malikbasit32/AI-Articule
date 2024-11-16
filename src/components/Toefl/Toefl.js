@@ -3,7 +3,7 @@ import { Container, Col, Row } from "react-bootstrap";
  
 import Particle from "../Particle";
 import Tilt from "react-parallax-tilt";
-import "react-pdf/dist/esm/Page/AnnotationLayer.css";
+ 
 
 import chatify from "../../Assets/art18-removebg-preview.png";
 import bitsOfCode from "../../Assets/art17-removebg-preview.png";
