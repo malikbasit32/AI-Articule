@@ -69,7 +69,7 @@ function Gre() {
               <h3 style={{ color: "text-color" }}>GRE Verbal</h3>
               <p style={{ color: "text-color" }}>
                  GRE verbal tests the ability of learners to draw conclusions from dense information. Sometimes, it gets little difficult to understand academic writing.
-                 Here Lang-AI helps determine the key comprehension and reading techniques that you require to solve verbal questions.
+                 Here AI-Articulé helps determine the key comprehension and reading techniques that you require to solve verbal questions.
               </p>
             </Col>
             <Col md={6} className="project-image">
@@ -88,16 +88,19 @@ function Gre() {
             <Col md={6} className="project-text">
               <h3 style={{ color: "text-color" }}>GRE Writing</h3>
               <p style={{ color: "text-color" }}>
-                GRE essays determine the ability of a learner to develop cogent arguments to support their claims. Lang-AI improves the learning process by aiding in determining the correct structures.
+                GRE essays determine the ability of a learner to develop cogent arguments to support their claims. AI-Articulé improves the learning process by aiding in determining the correct structures.
               </p>
+              
             </Col>
+            <h1 ><a className="purple" href="https://docs.google.com/forms/d/e/1FAIpQLSfjPbnX1DxBkUqDLdjCFLWfETJIByBI3Rm2FnJJURWl4hbhHw/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"><button style={styles.button}>Book a Session</button> </a> </h1>
+        
           </Row>
-          <h1 ><a className="purple" href="https://docs.google.com/forms/d/e/1FAIpQLSfjPbnX1DxBkUqDLdjCFLWfETJIByBI3Rm2FnJJURWl4hbhHw/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"><button style={styles.button}>Book a Session</button> </a> </h1>
-      
+          
           <br></br><br></br><br></br>
-          {/* Project 4: Text on the Left, Image on the Right */}
+        
            
         </Container>
+      
       </Container>
     </div>
   );

@@ -29,6 +29,7 @@ function Toefl() {
 
   return (
     <div>
+      
       <Container fluid className="project-section">
         <Particle />
         <Container>
@@ -51,7 +52,7 @@ function Toefl() {
               <h3 style={{ color: "text-color" }}>Toefl Speaking</h3>
               <p style={{ color: "text-color" }}>
                 Learn Toefl specific techniques how to construct sentence and
-                speak like natives with Lang-AI. Our team of experts teaches
+                speak like natives with AI-Articulé. Our team of experts teaches
                 accent using advance phonetics!
               </p>
             </Col>
@@ -107,13 +108,16 @@ function Toefl() {
             </Col>
             <Col md={6} className="project-image">
             <Tilt><img src={bitsOfCode1} alt="Bits-0f-C0de" className="img-fluid" /></Tilt> 
+    
             </Col>
-          </Row>
-          <h1 ><a className="purple" href="https://docs.google.com/forms/d/e/1FAIpQLSfjPbnX1DxBkUqDLdjCFLWfETJIByBI3Rm2FnJJURWl4hbhHw/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"><button style={styles.button}>Book a Session</button> </a> </h1>
+            <h1 ><a className="purple" href="https://docs.google.com/forms/d/e/1FAIpQLSfjPbnX1DxBkUqDLdjCFLWfETJIByBI3Rm2FnJJURWl4hbhHw/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"><button style={styles.button}>Book a Session</button> </a> </h1>
       
+          </Row>
+       
         </Container>
         <br></br><br></br>
       </Container>
+   
     </div>
   );
 }

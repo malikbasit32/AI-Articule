@@ -43,7 +43,7 @@ function Projects() {
           <Col md={6} className="project-text">
             <h3 style={{ color: "text-color" }}>Ielts Speaking</h3>
             <p style={{ color: "text-color" }}>
-              Learn how to construct sentence and speak like natives with Lang-AI. Our team of experts teaches accent using advance pheonetics! 
+              Learn how to construct sentence and speak like natives with AI-Articulé. Our team of experts teaches accent using advance pheonetics! 
             </p>
           </Col>
        
@@ -72,7 +72,7 @@ function Projects() {
           <Col md={6} className="project-text">
             <h3 style={{ color: "text-color" }}>Ielts Reading</h3>
             <p style={{ color: "text-color" }}>  
-            Aided with AI models, Lang-AI teaches you advance reading skills such as Pre-reading, Pointer method, Chunking, Skimming so that you achieve that coveted 9 band!</p>   </Col>
+            Aided with AI models, AI-Articulé teaches you advance reading skills such as Pre-reading, Pointer method, Chunking, Skimming so that you achieve that coveted 9 band!</p>   </Col>
         </Row>
               {/* Project 2: Text on the Left, Image on the Right */}
               <Row className="align-items-center project-row" style={{ marginBottom: "50px" }}>
